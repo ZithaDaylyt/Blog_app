@@ -1,0 +1,9 @@
+
+.cover{
+    background : url('/media/list.jpg')!important;
+    background-position:center;
+    object-fit:cover;
+    /* background-size: cover; */
+    height: 100vh;
+
+}
